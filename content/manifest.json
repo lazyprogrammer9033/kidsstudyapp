@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "weeks": [
+    {
+      "id": "2026-W42",
+      "title": "Autumn Adventures",
+      "emoji": "🍂",
+      "publishedAt": "2026-10-12T00:00:00Z",
+      "path": "weeks/2026-W42.json"
+    }
+  ]
+}

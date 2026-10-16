@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "BrightWeek Kids",
+    "slug": "brightweek-kids",
+    "scheme": "brightweek",
+    "version": "1.0.0",
+    "orientation": "default",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF7E8"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lazyprogrammer9033.brightweek",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
+    },
+    "android": {
+      "package": "com.lazyprogrammer9033.brightweek",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF7E8",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "permissions": ["com.android.vending.BILLING"],
+      "predictiveBackGestureEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-router"]
+  }
+}

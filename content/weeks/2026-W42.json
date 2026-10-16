@@ -1,0 +1,1706 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W42",
+  "title": "Autumn Adventures",
+  "theme": "Leaves, harvest and getting ready for winter",
+  "emoji": "🍂",
+  "publishedAt": "2026-10-12T00:00:00Z",
+  "activities": [
+    {
+      "id": "tots-count-apples",
+      "type": "count",
+      "title": "Apple Picking",
+      "emoji": "🍎",
+      "subject": "math",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Count the fruit and tap the right number.",
+      "items": [
+        {
+          "emoji": "🍎",
+          "count": 2
+        },
+        {
+          "emoji": "🎃",
+          "count": 3
+        },
+        {
+          "emoji": "🍂",
+          "count": 1
+        },
+        {
+          "emoji": "🌰",
+          "count": 4
+        },
+        {
+          "emoji": "🍐",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "tots-colors",
+      "type": "multipleChoice",
+      "title": "Autumn Colors",
+      "emoji": "🎨",
+      "subject": "art",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Listen and tap the right picture.",
+      "items": [
+        {
+          "prompt": "Which one is orange?",
+          "choices": [
+            "🎃",
+            "🥦",
+            "🫐"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which one is red?",
+          "choices": [
+            "🍋",
+            "🍎",
+            "🥒"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which one is yellow?",
+          "choices": [
+            "🍇",
+            "🍆",
+            "🌽"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which one is brown?",
+          "choices": [
+            "🌰",
+            "🍓",
+            "🥬"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which one is green?",
+          "choices": [
+            "🍊",
+            "🍏",
+            "🍒"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tots-big-small",
+      "type": "order",
+      "title": "Small to Big",
+      "emoji": "🐘",
+      "subject": "logic",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Tap from the smallest to the biggest.",
+      "items": [
+        {
+          "prompt": "Tap the smallest first, then bigger!",
+          "sequence": [
+            "🐜",
+            "🐭",
+            "🐶",
+            "🐘"
+          ]
+        },
+        {
+          "prompt": "Smallest to biggest!",
+          "sequence": [
+            "🫐",
+            "🍎",
+            "🍉"
+          ]
+        },
+        {
+          "prompt": "Smallest to biggest!",
+          "sequence": [
+            "🐞",
+            "🐰",
+            "🐴"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tots-sounds",
+      "type": "multipleChoice",
+      "title": "Animal Sounds",
+      "emoji": "🐄",
+      "subject": "reading",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Who makes this sound? Tap the speaker to hear it.",
+      "items": [
+        {
+          "prompt": "Who says moo?",
+          "choices": [
+            "🐄",
+            "🐱",
+            "🐔"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Who says quack?",
+          "choices": [
+            "🐶",
+            "🦆",
+            "🐷"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Who says woof?",
+          "choices": [
+            "🐑",
+            "🐸",
+            "🐶"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Who says oink?",
+          "choices": [
+            "🐷",
+            "🐴",
+            "🦉"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Who says hoot hoot?",
+          "choices": [
+            "🐮",
+            "🦉",
+            "🐝"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tots-shapes",
+      "type": "multipleChoice",
+      "title": "Shape Hunt",
+      "emoji": "🔺",
+      "subject": "math",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Listen and tap the right shape.",
+      "items": [
+        {
+          "prompt": "Which one is a circle?",
+          "choices": [
+            "🔺",
+            "⚪",
+            "🟦"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which one is a triangle?",
+          "choices": [
+            "🔺",
+            "🟢",
+            "⬜"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which one is a square?",
+          "choices": [
+            "🔵",
+            "🔻",
+            "🟥"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which one is a star?",
+          "choices": [
+            "⭐",
+            "🔶",
+            "⚫"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which one is a heart?",
+          "choices": [
+            "🟡",
+            "❤️",
+            "🔷"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tots-animal-homes",
+      "type": "match",
+      "title": "Who Lives Here?",
+      "emoji": "🏡",
+      "subject": "science",
+      "minAge": 2,
+      "maxAge": 5,
+      "minutes": 4,
+      "instructions": "Help each animal find its home.",
+      "items": [
+        {
+          "prompt": "Match the animal to its home.",
+          "pairs": [
+            [
+              "🐝",
+              "🍯"
+            ],
+            [
+              "🐦",
+              "🪺"
+            ],
+            [
+              "🐟",
+              "🌊"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the baby to its grown-up.",
+          "pairs": [
+            [
+              "🐣",
+              "🐔"
+            ],
+            [
+              "🐶",
+              "🐕"
+            ],
+            [
+              "🐱",
+              "🐈"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tots-count-leaves",
+      "type": "count",
+      "title": "Leaf Pile Counting",
+      "emoji": "🍁",
+      "subject": "math",
+      "minAge": 3,
+      "maxAge": 5,
+      "minutes": 4,
+      "instructions": "Count everything in the pile.",
+      "items": [
+        {
+          "emoji": "🍁",
+          "count": 6
+        },
+        {
+          "emoji": "🦔",
+          "count": 3
+        },
+        {
+          "emoji": "🍄",
+          "count": 7
+        },
+        {
+          "emoji": "🐿️",
+          "count": 5
+        },
+        {
+          "emoji": "🌻",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "id": "early-pumpkin-math",
+      "type": "multipleChoice",
+      "title": "Pumpkin Patch Math",
+      "emoji": "🎃",
+      "subject": "math",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 5,
+      "instructions": "Solve each pumpkin problem.",
+      "items": [
+        {
+          "prompt": "🎃🎃 + 🎃🎃🎃 = ?",
+          "choices": [
+            "4",
+            "5",
+            "6"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "You have 6 apples and eat 2. How many are left?",
+          "emoji": "🍎",
+          "choices": [
+            "3",
+            "4",
+            "8"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "7 + 3 = ?",
+          "choices": [
+            "9",
+            "10",
+            "11"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "There are 10 leaves. The wind blows 4 away. How many are left?",
+          "emoji": "🍁",
+          "choices": [
+            "6",
+            "5",
+            "14"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which number is the biggest?",
+          "choices": [
+            "12",
+            "21",
+            "19"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "5 + 5 + 2 = ?",
+          "choices": [
+            "10",
+            "11",
+            "12"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "early-spell-autumn",
+      "type": "spell",
+      "title": "Spell Autumn Words",
+      "emoji": "🔤",
+      "subject": "reading",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 5,
+      "instructions": "Look at the picture and spell the word.",
+      "items": [
+        {
+          "word": "LEAF",
+          "hint": "🍁"
+        },
+        {
+          "word": "OWL",
+          "hint": "🦉",
+          "extraLetters": "E"
+        },
+        {
+          "word": "CORN",
+          "hint": "🌽",
+          "extraLetters": "A"
+        },
+        {
+          "word": "PIE",
+          "hint": "🥧",
+          "extraLetters": "T"
+        },
+        {
+          "word": "RAIN",
+          "hint": "🌧️",
+          "extraLetters": "S"
+        }
+      ]
+    },
+    {
+      "id": "early-rhymes",
+      "type": "match",
+      "title": "Rhyme Time",
+      "emoji": "🎵",
+      "subject": "reading",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "Find the words that rhyme.",
+      "items": [
+        {
+          "prompt": "Match the words that rhyme.",
+          "pairs": [
+            [
+              "cat",
+              "hat"
+            ],
+            [
+              "tree",
+              "bee"
+            ],
+            [
+              "log",
+              "frog"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the words that rhyme.",
+          "pairs": [
+            [
+              "moon",
+              "spoon"
+            ],
+            [
+              "leaf",
+              "beef"
+            ],
+            [
+              "cake",
+              "lake"
+            ],
+            [
+              "star",
+              "car"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-word-pictures",
+      "type": "match",
+      "title": "Read and Match",
+      "emoji": "📚",
+      "subject": "reading",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "Read each word and match it to its picture.",
+      "items": [
+        {
+          "prompt": "Match the word to the picture.",
+          "pairs": [
+            [
+              "sun",
+              "☀️"
+            ],
+            [
+              "fox",
+              "🦊"
+            ],
+            [
+              "bus",
+              "🚌"
+            ],
+            [
+              "cup",
+              "☕"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the word to the picture.",
+          "pairs": [
+            [
+              "moon",
+              "🌙"
+            ],
+            [
+              "frog",
+              "🐸"
+            ],
+            [
+              "tree",
+              "🌳"
+            ],
+            [
+              "boat",
+              "⛵"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-shape-sides",
+      "type": "multipleChoice",
+      "title": "Count the Sides",
+      "emoji": "📐",
+      "subject": "math",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "How many sides or corners does each shape have?",
+      "items": [
+        {
+          "prompt": "How many sides does a triangle have?",
+          "emoji": "🔺",
+          "choices": [
+            "2",
+            "3",
+            "4"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "How many corners does a square have?",
+          "emoji": "🟥",
+          "choices": [
+            "4",
+            "5",
+            "3"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "How many sides does a circle have?",
+          "emoji": "⚪",
+          "choices": [
+            "0 — it is curved!",
+            "1",
+            "4"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "A shape with 6 sides is a…",
+          "choices": [
+            "Pentagon",
+            "Hexagon",
+            "Octagon"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "A stop sign has 8 sides. It is an…",
+          "emoji": "🛑",
+          "choices": [
+            "Octagon",
+            "Oval",
+            "Hexagon"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "early-seasons-order",
+      "type": "order",
+      "title": "Round the Year",
+      "emoji": "🔄",
+      "subject": "science",
+      "minAge": 5,
+      "maxAge": 8,
+      "minutes": 4,
+      "instructions": "Put things in the order they happen.",
+      "items": [
+        {
+          "prompt": "Start with spring. What comes next?",
+          "sequence": [
+            "🌷 Spring",
+            "☀️ Summer",
+            "🍂 Autumn",
+            "❄️ Winter"
+          ]
+        },
+        {
+          "prompt": "How does an apple grow?",
+          "sequence": [
+            "🌱 Seed",
+            "🌳 Tree",
+            "🌸 Flower",
+            "🍎 Apple"
+          ]
+        },
+        {
+          "prompt": "Order the morning!",
+          "sequence": [
+            "⏰ Wake up",
+            "🪥 Brush teeth",
+            "🥣 Breakfast",
+            "🎒 School"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-true-false-animals",
+      "type": "trueFalse",
+      "title": "Getting Ready for Winter",
+      "emoji": "🐿️",
+      "subject": "science",
+      "minAge": 5,
+      "maxAge": 8,
+      "minutes": 4,
+      "instructions": "Is it true or false?",
+      "items": [
+        {
+          "statement": "Squirrels hide nuts to eat later.",
+          "answer": true,
+          "explanation": "They bury nuts in autumn and dig them up in winter."
+        },
+        {
+          "statement": "Bears eat ice cream to get ready for winter.",
+          "answer": false,
+          "explanation": "Bears eat lots of berries, nuts and fish so they can sleep through winter."
+        },
+        {
+          "statement": "Some birds fly to warmer places in autumn.",
+          "answer": true,
+          "explanation": "This is called migration."
+        },
+        {
+          "statement": "Leaves on many trees change color in autumn.",
+          "answer": true
+        },
+        {
+          "statement": "Fish wear coats in winter.",
+          "answer": false,
+          "explanation": "Silly! Many fish swim slowly in deep water where it stays a little warmer."
+        }
+      ]
+    },
+    {
+      "id": "junior-logic-patterns",
+      "type": "multipleChoice",
+      "title": "Pattern Detective",
+      "emoji": "🔍",
+      "subject": "logic",
+      "minAge": 7,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "What comes next in each pattern?",
+      "items": [
+        {
+          "prompt": "🍁 🌰 🍁 🌰 🍁 ?",
+          "choices": [
+            "🍁",
+            "🌰",
+            "🎃"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "2, 4, 6, 8, ?",
+          "choices": [
+            "9",
+            "10",
+            "12"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "5, 10, 15, 20, ?",
+          "choices": [
+            "25",
+            "30",
+            "21"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "🎃 🎃 🍎 🎃 🎃 🍎 🎃 ?",
+          "choices": [
+            "🍎",
+            "🎃",
+            "🍂"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "1, 2, 4, 8, ?",
+          "choices": [
+            "10",
+            "12",
+            "16"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "junior-multiply-harvest",
+      "type": "typeAnswer",
+      "title": "Harvest Multiplication",
+      "emoji": "🧺",
+      "subject": "math",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 6,
+      "instructions": "Type the answer to each harvest problem.",
+      "items": [
+        {
+          "prompt": "A farmer fills 4 baskets with 6 apples each. How many apples?",
+          "answers": [
+            "24"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "7 × 8 = ?",
+          "answers": [
+            "56"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "There are 36 pumpkins shared equally by 4 families. How many does each family get?",
+          "answers": [
+            "9"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "9 × 6 = ?",
+          "answers": [
+            "54"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A corn maze has 5 paths with 12 scarecrows on each. How many scarecrows?",
+          "answers": [
+            "60"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Pears cost 3 coins each. How many coins for 11 pears?",
+          "answers": [
+            "33"
+          ],
+          "keyboard": "numeric"
+        }
+      ]
+    },
+    {
+      "id": "junior-why-leaves",
+      "type": "multipleChoice",
+      "title": "Why Leaves Change",
+      "emoji": "🍁",
+      "subject": "science",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Read each question and choose the best answer.",
+      "items": [
+        {
+          "prompt": "What makes most leaves green?",
+          "choices": [
+            "Chlorophyll",
+            "Paint",
+            "Rainwater",
+            "Sand"
+          ],
+          "answer": 0,
+          "explanation": "Chlorophyll is the green pigment plants use to make food from sunlight."
+        },
+        {
+          "prompt": "What do plants make using sunlight, water and air?",
+          "choices": [
+            "Rocks",
+            "Their own food (sugar)",
+            "Plastic",
+            "Clouds"
+          ],
+          "answer": 1,
+          "explanation": "This process is called photosynthesis."
+        },
+        {
+          "prompt": "Why do many leaves turn yellow and orange in autumn?",
+          "choices": [
+            "They get cold and blush",
+            "The green chlorophyll breaks down, so other colors show",
+            "Squirrels color them",
+            "The sun paints them"
+          ],
+          "answer": 1,
+          "explanation": "Yellow and orange pigments were there all summer, hidden by green."
+        },
+        {
+          "prompt": "Trees that drop all their leaves in autumn are called…",
+          "choices": [
+            "Evergreen",
+            "Deciduous",
+            "Tropical",
+            "Desert"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which tree usually stays green all winter?",
+          "choices": [
+            "Maple",
+            "Oak",
+            "Pine",
+            "Birch"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "junior-spell-tricky",
+      "type": "spell",
+      "title": "Tricky Spellings",
+      "emoji": "✏️",
+      "subject": "reading",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Spell each autumn word. Watch out for silent letters!",
+      "items": [
+        {
+          "word": "AUTUMN",
+          "hint": "🍂",
+          "extraLetters": "O"
+        },
+        {
+          "word": "HARVEST",
+          "hint": "🌾",
+          "extraLetters": "E"
+        },
+        {
+          "word": "SQUIRREL",
+          "hint": "🐿️",
+          "extraLetters": "W"
+        },
+        {
+          "word": "SCARECROW",
+          "hint": "🧑‍🌾",
+          "extraLetters": "K"
+        },
+        {
+          "word": "ACORN",
+          "hint": "🌰",
+          "extraLetters": "E"
+        }
+      ]
+    },
+    {
+      "id": "junior-grammar",
+      "type": "multipleChoice",
+      "title": "Word Detectives",
+      "emoji": "🕵️",
+      "subject": "reading",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Find the noun, verb or adjective in each sentence.",
+      "items": [
+        {
+          "prompt": "Which word is a VERB?  \"The squirrel buried an acorn.\"",
+          "choices": [
+            "squirrel",
+            "buried",
+            "acorn"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which word is an ADJECTIVE?  \"Crunchy leaves covered the path.\"",
+          "choices": [
+            "Crunchy",
+            "leaves",
+            "path"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which word is a NOUN?  \"She quickly raked the yard.\"",
+          "choices": [
+            "quickly",
+            "raked",
+            "yard"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which word is an ADVERB?  \"The geese flew south swiftly.\"",
+          "choices": [
+            "geese",
+            "swiftly",
+            "flew"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which sentence is written correctly?",
+          "choices": [
+            "the owl hooted at night.",
+            "The owl hooted at night.",
+            "The owl hooted at night"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "junior-world-harvest",
+      "type": "match",
+      "title": "Harvest Festivals",
+      "emoji": "🌍",
+      "subject": "world",
+      "minAge": 8,
+      "maxAge": 12,
+      "minutes": 5,
+      "instructions": "Match each festival to the country where it is celebrated.",
+      "items": [
+        {
+          "prompt": "Match the harvest festival to its country.",
+          "pairs": [
+            [
+              "Pongal",
+              "India"
+            ],
+            [
+              "Chuseok",
+              "South Korea"
+            ],
+            [
+              "Thanksgiving",
+              "USA"
+            ],
+            [
+              "Sukkot",
+              "Israel"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the food to the festival.",
+          "pairs": [
+            [
+              "Mooncakes",
+              "Mid-Autumn Festival"
+            ],
+            [
+              "Songpyeon rice cakes",
+              "Chuseok"
+            ],
+            [
+              "Sweet pongal rice",
+              "Pongal"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "junior-capitals",
+      "type": "match",
+      "title": "Capital Cities",
+      "emoji": "🏙️",
+      "subject": "world",
+      "minAge": 9,
+      "maxAge": 12,
+      "minutes": 5,
+      "instructions": "Match each country to its capital city.",
+      "items": [
+        {
+          "prompt": "Match the country to its capital.",
+          "pairs": [
+            [
+              "India",
+              "New Delhi"
+            ],
+            [
+              "Japan",
+              "Tokyo"
+            ],
+            [
+              "Canada",
+              "Ottawa"
+            ],
+            [
+              "Egypt",
+              "Cairo"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the country to its capital.",
+          "pairs": [
+            [
+              "Australia",
+              "Canberra"
+            ],
+            [
+              "Brazil",
+              "Brasília"
+            ],
+            [
+              "Kenya",
+              "Nairobi"
+            ],
+            [
+              "France",
+              "Paris"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tween-fractions-pie",
+      "type": "multipleChoice",
+      "title": "Pie Fractions",
+      "emoji": "🥧",
+      "subject": "math",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 6,
+      "instructions": "Work with fractions, decimals and percentages.",
+      "items": [
+        {
+          "prompt": "A pie is cut into 8 slices. You eat 3. What fraction is left?",
+          "choices": [
+            "3/8",
+            "5/8",
+            "1/2",
+            "5/3"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "1/2 + 1/3 = ?",
+          "choices": [
+            "2/5",
+            "5/6",
+            "1/6",
+            "2/3"
+          ],
+          "answer": 1,
+          "explanation": "3/6 + 2/6 = 5/6"
+        },
+        {
+          "prompt": "What is 25% of 80?",
+          "choices": [
+            "20",
+            "25",
+            "40",
+            "8"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which is largest?",
+          "choices": [
+            "0.6",
+            "3/5",
+            "5/8",
+            "55%"
+          ],
+          "answer": 2,
+          "explanation": "5/8 = 0.625, which beats 0.6 (= 3/5) and 0.55."
+        },
+        {
+          "prompt": "2/3 of 27 apples are red. How many are red?",
+          "choices": [
+            "9",
+            "18",
+            "15",
+            "21"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tween-logic-puzzles",
+      "type": "typeAnswer",
+      "title": "Brain Teasers",
+      "emoji": "🧩",
+      "subject": "logic",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 6,
+      "instructions": "Think it through, then type your answer as a number.",
+      "items": [
+        {
+          "prompt": "A farmer has 17 sheep. All but 9 run away. How many are left?",
+          "answers": [
+            "9"
+          ],
+          "keyboard": "numeric",
+          "explanation": "\"All but 9\" means 9 stay."
+        },
+        {
+          "prompt": "What is the next number? 1, 1, 2, 3, 5, 8, ?",
+          "answers": [
+            "13"
+          ],
+          "keyboard": "numeric",
+          "explanation": "Each number is the sum of the two before it (Fibonacci)."
+        },
+        {
+          "prompt": "If 3 cats catch 3 mice in 3 minutes, how many minutes do 100 cats take to catch 100 mice?",
+          "answers": [
+            "3"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A bat and a ball cost $1.10 in total. The bat costs $1.00 more than the ball. How many cents is the ball?",
+          "answers": [
+            "5",
+            "5 cents",
+            "0.05"
+          ],
+          "keyboard": "numeric",
+          "explanation": "Ball 5¢ + bat $1.05 = $1.10."
+        },
+        {
+          "prompt": "How many months have 28 days?",
+          "answers": [
+            "12"
+          ],
+          "keyboard": "numeric",
+          "explanation": "Every month has at least 28 days!"
+        }
+      ]
+    },
+    {
+      "id": "tween-vocab",
+      "type": "match",
+      "title": "Word Power",
+      "emoji": "📖",
+      "subject": "reading",
+      "minAge": 11,
+      "maxAge": 14,
+      "minutes": 5,
+      "instructions": "Match each word to its meaning.",
+      "items": [
+        {
+          "prompt": "Match the word to its meaning.",
+          "pairs": [
+            [
+              "Hibernate",
+              "Spend winter in a deep sleep"
+            ],
+            [
+              "Migrate",
+              "Move to another region for the season"
+            ],
+            [
+              "Harvest",
+              "Gather ripe crops"
+            ],
+            [
+              "Dormant",
+              "Alive but not actively growing"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the word to its opposite.",
+          "pairs": [
+            [
+              "Abundant",
+              "Scarce"
+            ],
+            [
+              "Brisk",
+              "Sluggish"
+            ],
+            [
+              "Vivid",
+              "Dull"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tween-earth-tilt",
+      "type": "trueFalse",
+      "title": "Why We Have Seasons",
+      "emoji": "🌏",
+      "subject": "science",
+      "minAge": 11,
+      "maxAge": 14,
+      "minutes": 5,
+      "instructions": "True or false? Read the explanation after each one.",
+      "items": [
+        {
+          "statement": "We have seasons because Earth is closer to the Sun in summer.",
+          "answer": false,
+          "explanation": "Seasons come from Earth's tilt (about 23.5°). The Northern Hemisphere is actually closest to the Sun in January."
+        },
+        {
+          "statement": "When it is autumn in Canada, it is spring in Australia.",
+          "answer": true,
+          "explanation": "The hemispheres tilt toward the Sun at opposite times of year."
+        },
+        {
+          "statement": "On the equinox, day and night are roughly equal in length everywhere.",
+          "answer": true
+        },
+        {
+          "statement": "The Moon causes the seasons.",
+          "answer": false,
+          "explanation": "The Moon causes tides, not seasons."
+        },
+        {
+          "statement": "Earth takes about 365 days to orbit the Sun.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "tween-percent-sale",
+      "type": "typeAnswer",
+      "title": "Autumn Sale",
+      "emoji": "🛍️",
+      "subject": "life",
+      "minAge": 11,
+      "maxAge": 14,
+      "minutes": 6,
+      "instructions": "Use money math to find the answers. Type numbers only.",
+      "items": [
+        {
+          "prompt": "A jacket costs $60 and is 20% off. What is the sale price in dollars?",
+          "answers": [
+            "48",
+            "48.00",
+            "$48"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Boots cost $45. You pay with $100. How much change?",
+          "answers": [
+            "55",
+            "55.00",
+            "$55"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Gloves: 3 pairs for $12. What does 1 pair cost?",
+          "answers": [
+            "4",
+            "4.00",
+            "$4"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "You save $5 a week. How many weeks to save $85?",
+          "answers": [
+            "17"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A $40 game goes up by 10%. What is the new price?",
+          "answers": [
+            "44",
+            "44.00",
+            "$44"
+          ],
+          "keyboard": "numeric"
+        }
+      ]
+    },
+    {
+      "id": "tween-logic-order",
+      "type": "order",
+      "title": "Timeline Challenge",
+      "emoji": "⏳",
+      "subject": "world",
+      "minAge": 11,
+      "maxAge": 16,
+      "minutes": 5,
+      "instructions": "Put the events in order from earliest to latest.",
+      "items": [
+        {
+          "prompt": "Earliest to latest:",
+          "sequence": [
+            "Great Pyramid of Giza built",
+            "Roman Colosseum opens",
+            "Printing press in Europe",
+            "First Moon landing"
+          ]
+        },
+        {
+          "prompt": "Earliest to latest inventions:",
+          "sequence": [
+            "Wheel",
+            "Telephone",
+            "Television",
+            "Smartphone"
+          ]
+        },
+        {
+          "prompt": "Largest to smallest:",
+          "sequence": [
+            "Galaxy",
+            "Solar system",
+            "Planet",
+            "Continent",
+            "Country"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teen-geography",
+      "type": "multipleChoice",
+      "title": "World Climate Quiz",
+      "emoji": "🗺️",
+      "subject": "world",
+      "minAge": 13,
+      "maxAge": 16,
+      "minutes": 5,
+      "instructions": "Test your geography and climate knowledge.",
+      "items": [
+        {
+          "prompt": "Which line divides Earth into Northern and Southern Hemispheres?",
+          "choices": [
+            "Prime Meridian",
+            "Equator",
+            "Tropic of Cancer",
+            "Arctic Circle"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Monsoon rains are most closely linked to which region?",
+          "choices": [
+            "South Asia",
+            "Antarctica",
+            "Greenland",
+            "The Sahara"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which biome has the most plant and animal species?",
+          "choices": [
+            "Tundra",
+            "Desert",
+            "Tropical rainforest",
+            "Taiga"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which ocean is the largest?",
+          "choices": [
+            "Atlantic",
+            "Indian",
+            "Arctic",
+            "Pacific"
+          ],
+          "answer": 3
+        },
+        {
+          "prompt": "Which is the longest river in South America?",
+          "choices": [
+            "Amazon",
+            "Paraná",
+            "Orinoco",
+            "Magdalena"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "teen-algebra",
+      "type": "typeAnswer",
+      "title": "Solve for x",
+      "emoji": "🧮",
+      "subject": "math",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 8,
+      "instructions": "Solve each equation. Type the value of x.",
+      "items": [
+        {
+          "prompt": "3x + 7 = 31",
+          "answers": [
+            "8",
+            "x=8",
+            "x = 8"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "5(x − 2) = 35",
+          "answers": [
+            "9",
+            "x=9",
+            "x = 9"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "x / 4 + 6 = 11",
+          "answers": [
+            "20",
+            "x=20",
+            "x = 20"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "2x − 9 = x + 4",
+          "answers": [
+            "13",
+            "x=13",
+            "x = 13"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "x² = 144 and x > 0",
+          "answers": [
+            "12",
+            "x=12",
+            "x = 12"
+          ],
+          "keyboard": "numeric"
+        }
+      ]
+    },
+    {
+      "id": "teen-photosynthesis",
+      "type": "multipleChoice",
+      "title": "Inside a Leaf",
+      "emoji": "🔬",
+      "subject": "science",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 6,
+      "instructions": "Biology and chemistry of leaves.",
+      "items": [
+        {
+          "prompt": "Which is the balanced overall equation for photosynthesis?",
+          "choices": [
+            "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+            "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O",
+            "CO₂ + H₂O → CH₄ + O₂",
+            "6O₂ → 6CO₂"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "In which organelle does photosynthesis take place?",
+          "choices": [
+            "Mitochondria",
+            "Nucleus",
+            "Chloroplast",
+            "Ribosome"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Tiny pores on a leaf that let gases in and out are called…",
+          "choices": [
+            "Stomata",
+            "Xylem",
+            "Alveoli",
+            "Villi"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "The red pigments that appear in some autumn leaves are mainly…",
+          "choices": [
+            "Chlorophylls",
+            "Anthocyanins",
+            "Hemoglobins",
+            "Melanins"
+          ],
+          "answer": 1,
+          "explanation": "Anthocyanins are often produced in autumn; yellows and oranges come from carotenoids."
+        },
+        {
+          "prompt": "Which gas do plants release as a by-product of photosynthesis?",
+          "choices": [
+            "Carbon dioxide",
+            "Nitrogen",
+            "Oxygen",
+            "Methane"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "teen-literary-devices",
+      "type": "match",
+      "title": "Literary Devices",
+      "emoji": "🖋️",
+      "subject": "reading",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 6,
+      "instructions": "Match each example to the literary device it uses.",
+      "items": [
+        {
+          "prompt": "Match the example to the device.",
+          "pairs": [
+            [
+              "The leaves danced in the wind.",
+              "Personification"
+            ],
+            [
+              "Crisp, crunchy, crackling leaves",
+              "Alliteration"
+            ],
+            [
+              "The forest was a fire of red and gold.",
+              "Metaphor"
+            ],
+            [
+              "Cold as ice",
+              "Simile"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the term to its definition.",
+          "pairs": [
+            [
+              "Hyperbole",
+              "Deliberate exaggeration"
+            ],
+            [
+              "Onomatopoeia",
+              "A word that imitates a sound"
+            ],
+            [
+              "Irony",
+              "The opposite of what is expected"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teen-money-skills",
+      "type": "trueFalse",
+      "title": "Money Smarts",
+      "emoji": "💳",
+      "subject": "life",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 5,
+      "instructions": "True or false? Learn a money skill from each one.",
+      "items": [
+        {
+          "statement": "Compound interest means you earn interest on your interest.",
+          "answer": true,
+          "explanation": "That is why saving early grows money faster."
+        },
+        {
+          "statement": "Paying only the minimum on a credit card balance is the cheapest way to repay it.",
+          "answer": false,
+          "explanation": "Interest keeps building on the remaining balance, so it costs more over time."
+        },
+        {
+          "statement": "A budget is a plan for how you will spend and save money.",
+          "answer": true
+        },
+        {
+          "statement": "Gross pay is the amount you take home after taxes.",
+          "answer": false,
+          "explanation": "That is net pay. Gross pay is before deductions."
+        },
+        {
+          "statement": "An emergency fund is money set aside for unexpected costs.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "teen-probability",
+      "type": "multipleChoice",
+      "title": "Probability Lab",
+      "emoji": "🎲",
+      "subject": "math",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 6,
+      "instructions": "Work out each probability.",
+      "items": [
+        {
+          "prompt": "What is the probability of rolling a 6 on a fair die?",
+          "choices": [
+            "1/6",
+            "1/3",
+            "1/2",
+            "6/6"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "You flip a fair coin twice. What is P(two heads)?",
+          "choices": [
+            "1/2",
+            "1/3",
+            "1/4",
+            "2/3"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "A bag has 3 red and 7 green apples. P(red)?",
+          "choices": [
+            "3/7",
+            "3/10",
+            "7/10",
+            "1/3"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Two dice are rolled. What is P(sum = 7)?",
+          "choices": [
+            "1/12",
+            "1/6",
+            "7/36",
+            "1/36"
+          ],
+          "answer": 1,
+          "explanation": "6 of the 36 outcomes sum to 7."
+        },
+        {
+          "prompt": "If P(rain) = 0.3, what is P(no rain)?",
+          "choices": [
+            "0.3",
+            "0.6",
+            "0.7",
+            "1.3"
+          ],
+          "answer": 2
+        }
+      ]
+    }
+  ]
+}
