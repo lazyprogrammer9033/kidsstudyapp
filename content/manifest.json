@@ -7,6 +7,13 @@
       "emoji": "🍂",
       "publishedAt": "2026-10-12T00:00:00Z",
       "path": "weeks/2026-W42.json"
+    },
+    {
+      "id": "2026-W43",
+      "title": "Night Owls",
+      "emoji": "🌙",
+      "publishedAt": "2026-10-19T00:00:00.000Z",
+      "path": "weeks/2026-W43.json"
     }
   ]
 }

@@ -1,0 +1,1702 @@
+{
+  "schemaVersion": 1,
+  "id": "2026-W43",
+  "title": "Night Owls",
+  "theme": "The moon, stars, nocturnal animals, light and shadow",
+  "emoji": "🌙",
+  "publishedAt": "2026-10-19T00:00:00.000Z",
+  "activities": [
+    {
+      "id": "tots-count-night",
+      "type": "count",
+      "title": "Counting in the Dark",
+      "emoji": "🌟",
+      "subject": "math",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Count and tap the right number.",
+      "items": [
+        {
+          "emoji": "🌟",
+          "count": 3
+        },
+        {
+          "emoji": "🦉",
+          "count": 2
+        },
+        {
+          "emoji": "🌙",
+          "count": 1
+        },
+        {
+          "emoji": "🦇",
+          "count": 4
+        },
+        {
+          "emoji": "⭐",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "id": "tots-day-or-night",
+      "type": "multipleChoice",
+      "title": "Bedtime Things",
+      "emoji": "🛏️",
+      "subject": "life",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Listen and tap the right picture.",
+      "items": [
+        {
+          "prompt": "Which one do we see at night?",
+          "choices": [
+            "☀️",
+            "🌙",
+            "🌈"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Who wakes up at night?",
+          "choices": [
+            "🐔",
+            "🦉",
+            "🐝"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Where do we sleep?",
+          "choices": [
+            "🛏️",
+            "🚲",
+            "⚽"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "What helps us see in the dark?",
+          "choices": [
+            "🍌",
+            "🧦",
+            "🔦"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "What do we clean with a toothbrush before bed?",
+          "choices": [
+            "🦷",
+            "🚗",
+            "🌳"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "tots-match-same",
+      "type": "match",
+      "title": "Find the Twin",
+      "emoji": "👯",
+      "subject": "logic",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Tap a picture, then tap the same one.",
+      "items": [
+        {
+          "prompt": "Find the same picture.",
+          "pairs": [
+            [
+              "🦉",
+              "🦉"
+            ],
+            [
+              "🌙",
+              "🌙"
+            ],
+            [
+              "⭐",
+              "⭐"
+            ]
+          ]
+        },
+        {
+          "prompt": "Who eats what? Match them.",
+          "pairs": [
+            [
+              "🐰",
+              "🥕"
+            ],
+            [
+              "🐵",
+              "🍌"
+            ],
+            [
+              "🐭",
+              "🧀"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tots-bedtime-order",
+      "type": "order",
+      "title": "Getting Ready for Bed",
+      "emoji": "🛁",
+      "subject": "life",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Tap in the right order.",
+      "items": [
+        {
+          "prompt": "What do we do first at bedtime?",
+          "sequence": [
+            "🛁 Bath",
+            "🪥 Brush teeth",
+            "📖 Story",
+            "😴 Sleep"
+          ]
+        },
+        {
+          "prompt": "Tap the smallest first, then bigger!",
+          "sequence": [
+            "🐭",
+            "🐱",
+            "🐻"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tots-colors-night",
+      "type": "multipleChoice",
+      "title": "Colors at Night",
+      "emoji": "🎨",
+      "subject": "art",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Listen and tap the right color.",
+      "items": [
+        {
+          "prompt": "Which one is purple?",
+          "choices": [
+            "🍇",
+            "🍋",
+            "🥕"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which one is blue?",
+          "choices": [
+            "🍎",
+            "🫐",
+            "🌽"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which one is black?",
+          "choices": [
+            "🐥",
+            "🐷",
+            "🐈‍⬛"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which one is white?",
+          "choices": [
+            "☁️",
+            "🍊",
+            "🥦"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which one is pink?",
+          "choices": [
+            "🐸",
+            "🐷",
+            "🐻"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tots-night-sounds",
+      "type": "multipleChoice",
+      "title": "Night Sounds",
+      "emoji": "🦉",
+      "subject": "reading",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Who makes this sound? Tap the speaker to hear it.",
+      "items": [
+        {
+          "prompt": "Who says hoo-hoo?",
+          "choices": [
+            "🐶",
+            "🦉",
+            "🐮"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Who says ribbit?",
+          "choices": [
+            "🐸",
+            "🐱",
+            "🐴"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Who says meow?",
+          "choices": [
+            "🐑",
+            "🐷",
+            "🐱"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Who says baa?",
+          "choices": [
+            "🐑",
+            "🦆",
+            "🐝"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Who goes buzz?",
+          "choices": [
+            "🐄",
+            "🐝",
+            "🐟"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tots-odd-one",
+      "type": "multipleChoice",
+      "title": "Which Is Different?",
+      "emoji": "🔎",
+      "subject": "logic",
+      "minAge": 2,
+      "maxAge": 4,
+      "minutes": 3,
+      "instructions": "Find the one that is not the same.",
+      "items": [
+        {
+          "prompt": "Which one is different?",
+          "choices": [
+            "🌙",
+            "🌙",
+            "⭐"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which one is different?",
+          "choices": [
+            "🦉",
+            "🐸",
+            "🦉"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which one is different?",
+          "choices": [
+            "🍎",
+            "🍎",
+            "🍎",
+            "🍌"
+          ],
+          "answer": 3
+        },
+        {
+          "prompt": "Which one is different?",
+          "choices": [
+            "🐟",
+            "🦇",
+            "🦇"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "tots-count-sheep",
+      "type": "count",
+      "title": "Counting Sheep",
+      "emoji": "🐑",
+      "subject": "math",
+      "minAge": 3,
+      "maxAge": 5,
+      "minutes": 4,
+      "instructions": "Count everything and tap the number.",
+      "items": [
+        {
+          "emoji": "🐑",
+          "count": 6
+        },
+        {
+          "emoji": "🌟",
+          "count": 7
+        },
+        {
+          "emoji": "🦗",
+          "count": 3
+        },
+        {
+          "emoji": "🍪",
+          "count": 8
+        },
+        {
+          "emoji": "🕯️",
+          "count": 4
+        }
+      ]
+    },
+    {
+      "id": "early-star-math",
+      "type": "multipleChoice",
+      "title": "Star Sums",
+      "emoji": "✨",
+      "subject": "math",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 5,
+      "instructions": "Solve each starry problem.",
+      "items": [
+        {
+          "prompt": "⭐⭐⭐ + ⭐⭐⭐⭐ = ?",
+          "choices": [
+            "6",
+            "7",
+            "8"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "There are 9 owls. 3 fly away. How many are left?",
+          "choices": [
+            "5",
+            "6",
+            "12"
+          ],
+          "answer": 1,
+          "emoji": "🦉"
+        },
+        {
+          "prompt": "8 + 6 = ?",
+          "choices": [
+            "13",
+            "14",
+            "15"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Count by 2s: 2, 4, 6, ?",
+          "choices": [
+            "7",
+            "8",
+            "10"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "15 − 5 = ?",
+          "choices": [
+            "10",
+            "11",
+            "20"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which number is smallest?",
+          "choices": [
+            "31",
+            "13",
+            "30"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "early-spell-night",
+      "type": "spell",
+      "title": "Spell Night Words",
+      "emoji": "🌙",
+      "subject": "reading",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 5,
+      "instructions": "Look at the picture and spell the word.",
+      "items": [
+        {
+          "word": "MOON",
+          "hint": "🌙"
+        },
+        {
+          "word": "STAR",
+          "hint": "⭐",
+          "extraLetters": "E"
+        },
+        {
+          "word": "BAT",
+          "hint": "🦇",
+          "extraLetters": "O"
+        },
+        {
+          "word": "BED",
+          "hint": "🛏️",
+          "extraLetters": "A"
+        },
+        {
+          "word": "SLEEP",
+          "hint": "😴",
+          "extraLetters": "A"
+        }
+      ]
+    },
+    {
+      "id": "early-nocturnal-tf",
+      "type": "trueFalse",
+      "title": "Night Animals",
+      "emoji": "🦇",
+      "subject": "science",
+      "minAge": 5,
+      "maxAge": 8,
+      "minutes": 4,
+      "instructions": "Is it true or false?",
+      "items": [
+        {
+          "statement": "Owls hunt for food at night.",
+          "answer": true,
+          "explanation": "Owls have amazing eyes and ears for finding food in the dark."
+        },
+        {
+          "statement": "Bats are birds.",
+          "answer": false,
+          "explanation": "Bats are mammals, like us! They are the only mammals that can truly fly."
+        },
+        {
+          "statement": "The Moon makes its own light.",
+          "answer": false,
+          "explanation": "The Moon shines because sunlight bounces off it."
+        },
+        {
+          "statement": "Fireflies can glow.",
+          "answer": true,
+          "explanation": "Fireflies make light inside their bodies."
+        },
+        {
+          "statement": "Hedgehogs often come out at night.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "early-opposites",
+      "type": "match",
+      "title": "Opposites",
+      "emoji": "↔️",
+      "subject": "reading",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "Match each word to its opposite.",
+      "items": [
+        {
+          "prompt": "Match the opposites.",
+          "pairs": [
+            [
+              "day",
+              "night"
+            ],
+            [
+              "hot",
+              "cold"
+            ],
+            [
+              "up",
+              "down"
+            ],
+            [
+              "big",
+              "small"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the opposites.",
+          "pairs": [
+            [
+              "light",
+              "dark"
+            ],
+            [
+              "fast",
+              "slow"
+            ],
+            [
+              "happy",
+              "sad"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-order-it",
+      "type": "order",
+      "title": "Put It in Order",
+      "emoji": "🔢",
+      "subject": "logic",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "Tap the cards in the right order.",
+      "items": [
+        {
+          "prompt": "Smallest number to biggest.",
+          "sequence": [
+            "3",
+            "7",
+            "12",
+            "20"
+          ]
+        },
+        {
+          "prompt": "Order the day.",
+          "sequence": [
+            "🌅 Morning",
+            "☀️ Noon",
+            "🌇 Evening",
+            "🌙 Night"
+          ]
+        },
+        {
+          "prompt": "Shortest word to longest.",
+          "sequence": [
+            "I",
+            "am",
+            "star",
+            "planet"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "early-sounds-letters",
+      "type": "multipleChoice",
+      "title": "Sound It Out",
+      "emoji": "🗣️",
+      "subject": "reading",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "Listen to each word and choose.",
+      "items": [
+        {
+          "prompt": "Which word rhymes with night?",
+          "choices": [
+            "light",
+            "moon",
+            "dog"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which word starts with the same sound as moon?",
+          "choices": [
+            "sun",
+            "mat",
+            "owl"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which word ends with the letter t?",
+          "choices": [
+            "owl",
+            "sky",
+            "bat"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "How many syllables (claps) in rocket?",
+          "choices": [
+            "1",
+            "2",
+            "3"
+          ],
+          "answer": 1,
+          "emoji": "🚀"
+        },
+        {
+          "prompt": "Which one is a capital letter?",
+          "choices": [
+            "b",
+            "D",
+            "e"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "early-big-count",
+      "type": "count",
+      "title": "Night Sky Counting",
+      "emoji": "🌌",
+      "subject": "math",
+      "minAge": 5,
+      "maxAge": 7,
+      "minutes": 4,
+      "instructions": "Count carefully. Try touching each one as you count!",
+      "items": [
+        {
+          "emoji": "🌟",
+          "count": 11
+        },
+        {
+          "emoji": "🪐",
+          "count": 9
+        },
+        {
+          "emoji": "🦉",
+          "count": 12
+        },
+        {
+          "emoji": "🚀",
+          "count": 10
+        },
+        {
+          "emoji": "🌙",
+          "count": 14
+        }
+      ]
+    },
+    {
+      "id": "junior-solar-system",
+      "type": "multipleChoice",
+      "title": "Our Solar System",
+      "emoji": "🪐",
+      "subject": "science",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Choose the best answer.",
+      "items": [
+        {
+          "prompt": "Which planet is closest to the Sun?",
+          "choices": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Earth"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which is the largest planet?",
+          "choices": [
+            "Saturn",
+            "Earth",
+            "Jupiter",
+            "Neptune"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "Which planet is called the Red Planet?",
+          "choices": [
+            "Mars",
+            "Venus",
+            "Uranus",
+            "Mercury"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which planet is best known for its bright rings?",
+          "choices": [
+            "Mars",
+            "Saturn",
+            "Earth",
+            "Mercury"
+          ],
+          "answer": 1,
+          "explanation": "Jupiter, Uranus and Neptune have faint rings too!"
+        },
+        {
+          "prompt": "About how long does the Moon take to go around Earth?",
+          "choices": [
+            "1 day",
+            "About a month",
+            "1 year",
+            "10 years"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "junior-planet-order",
+      "type": "order",
+      "title": "Planet Parade",
+      "emoji": "🔭",
+      "subject": "science",
+      "minAge": 8,
+      "maxAge": 11,
+      "minutes": 4,
+      "instructions": "Order the planets starting nearest the Sun.",
+      "items": [
+        {
+          "prompt": "Inner planets, nearest the Sun first:",
+          "sequence": [
+            "Mercury",
+            "Venus",
+            "Earth",
+            "Mars"
+          ]
+        },
+        {
+          "prompt": "Outer planets, nearest the Sun first:",
+          "sequence": [
+            "Jupiter",
+            "Saturn",
+            "Uranus",
+            "Neptune"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "junior-star-division",
+      "type": "typeAnswer",
+      "title": "Starry Division",
+      "emoji": "➗",
+      "subject": "math",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 6,
+      "instructions": "Type the answer to each problem.",
+      "items": [
+        {
+          "prompt": "72 stars are in 8 equal rows. How many stars in each row?",
+          "answers": [
+            "9"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "63 ÷ 7 = ?",
+          "answers": [
+            "9"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "An owl catches 3 mice each night. How many in 5 nights?",
+          "answers": [
+            "15"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "12 × 4 = ?",
+          "answers": [
+            "48"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A telescope costs $85. You have $38. How many more dollars do you need?",
+          "answers": [
+            "47",
+            "$47"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "56 glow sticks shared by 8 friends. How many each?",
+          "answers": [
+            "7"
+          ],
+          "keyboard": "numeric"
+        }
+      ]
+    },
+    {
+      "id": "junior-night-creatures",
+      "type": "match",
+      "title": "Night Creature Facts",
+      "emoji": "🦔",
+      "subject": "science",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Match each animal to its night-time superpower.",
+      "items": [
+        {
+          "prompt": "Match the animal to its superpower.",
+          "pairs": [
+            [
+              "Owl",
+              "Turns its head very far around"
+            ],
+            [
+              "Bat",
+              "Finds food using echoes"
+            ],
+            [
+              "Firefly",
+              "Makes its own light"
+            ],
+            [
+              "Hedgehog",
+              "Rolls into a spiky ball"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "junior-spell-space",
+      "type": "spell",
+      "title": "Space Spelling",
+      "emoji": "🚀",
+      "subject": "reading",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Spell each space word.",
+      "items": [
+        {
+          "word": "PLANET",
+          "hint": "🪐",
+          "extraLetters": "S"
+        },
+        {
+          "word": "ROCKET",
+          "hint": "🚀",
+          "extraLetters": "A"
+        },
+        {
+          "word": "COMET",
+          "hint": "☄️",
+          "extraLetters": "I"
+        },
+        {
+          "word": "TELESCOPE",
+          "hint": "🔭",
+          "extraLetters": "A"
+        },
+        {
+          "word": "GALAXY",
+          "hint": "🌌",
+          "extraLetters": "E"
+        }
+      ]
+    },
+    {
+      "id": "junior-sleep-tf",
+      "type": "trueFalse",
+      "title": "Super Sleep",
+      "emoji": "😴",
+      "subject": "life",
+      "minAge": 8,
+      "maxAge": 11,
+      "minutes": 4,
+      "instructions": "True or false? Learn why sleep matters.",
+      "items": [
+        {
+          "statement": "Children aged 6 to 12 need about 9 to 12 hours of sleep each night.",
+          "answer": true
+        },
+        {
+          "statement": "Playing on a screen right before bed helps you fall asleep.",
+          "answer": false,
+          "explanation": "Screen light can trick your brain into staying awake."
+        },
+        {
+          "statement": "Your brain is still busy while you sleep.",
+          "answer": true,
+          "explanation": "It sorts and saves what you learned during the day."
+        },
+        {
+          "statement": "Sleep helps you remember what you learned.",
+          "answer": true
+        },
+        {
+          "statement": "Skipping sleep makes you better at sports.",
+          "answer": false,
+          "explanation": "Rested bodies are faster, stronger and react quicker."
+        }
+      ]
+    },
+    {
+      "id": "junior-logic",
+      "type": "multipleChoice",
+      "title": "Think Like a Detective",
+      "emoji": "🕵️",
+      "subject": "logic",
+      "minAge": 8,
+      "maxAge": 10,
+      "minutes": 5,
+      "instructions": "Use clues to find the answer.",
+      "items": [
+        {
+          "prompt": "Mia is taller than Leo. Leo is taller than Sam. Who is the shortest?",
+          "choices": [
+            "Mia",
+            "Leo",
+            "Sam"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "What comes next? 3, 6, 12, 24, ?",
+          "choices": [
+            "30",
+            "36",
+            "48"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "If today is Tuesday, what day will it be in 3 days?",
+          "choices": [
+            "Thursday",
+            "Friday",
+            "Saturday"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which one does NOT belong?",
+          "choices": [
+            "Mercury",
+            "Mars",
+            "Moon",
+            "Venus"
+          ],
+          "answer": 2,
+          "explanation": "The Moon is not a planet."
+        },
+        {
+          "prompt": "A clock shows 9:00. What time will it be 2½ hours later?",
+          "choices": [
+            "11:00",
+            "11:30",
+            "12:30"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tween-moon-phases",
+      "type": "order",
+      "title": "Phases of the Moon",
+      "emoji": "🌗",
+      "subject": "science",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 5,
+      "instructions": "Put the Moon's phases in order.",
+      "items": [
+        {
+          "prompt": "From new moon to full moon:",
+          "sequence": [
+            "New moon",
+            "Waxing crescent",
+            "First quarter",
+            "Waxing gibbous",
+            "Full moon"
+          ]
+        },
+        {
+          "prompt": "From full moon back to new moon:",
+          "sequence": [
+            "Full moon",
+            "Waning gibbous",
+            "Third quarter",
+            "Waning crescent",
+            "New moon"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tween-light-tf",
+      "type": "trueFalse",
+      "title": "Light and Shadow",
+      "emoji": "💡",
+      "subject": "science",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 5,
+      "instructions": "True or false? Read each explanation.",
+      "items": [
+        {
+          "statement": "Light travels faster than sound.",
+          "answer": true,
+          "explanation": "That is why you see lightning before you hear thunder."
+        },
+        {
+          "statement": "Sunlight takes about 8 minutes to reach Earth.",
+          "answer": true
+        },
+        {
+          "statement": "Shadows are longest at midday.",
+          "answer": false,
+          "explanation": "Shadows are shortest when the Sun is highest, around midday."
+        },
+        {
+          "statement": "A light-year measures time.",
+          "answer": false,
+          "explanation": "It is a distance: how far light travels in one year."
+        },
+        {
+          "statement": "White light is made of many colors mixed together.",
+          "answer": true,
+          "explanation": "A prism splits it into a rainbow."
+        }
+      ]
+    },
+    {
+      "id": "tween-ratios",
+      "type": "typeAnswer",
+      "title": "Ratio Rocket",
+      "emoji": "📏",
+      "subject": "math",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 6,
+      "instructions": "Type numbers only.",
+      "items": [
+        {
+          "prompt": "A map scale is 1 cm : 5 km. How many km is 7 cm?",
+          "answers": [
+            "35"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A drink is 2 cups juice to 3 cups water. With 8 cups of juice, how many cups of water?",
+          "answers": [
+            "12"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A train goes 150 km in 3 hours. What is its speed in km per hour?",
+          "answers": [
+            "50"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "What is 30% of 250?",
+          "answers": [
+            "75"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Simplify the ratio 12 : 18. Type it like 1:2",
+          "answers": [
+            "2:3",
+            "2 : 3"
+          ],
+          "keyboard": "text"
+        }
+      ]
+    },
+    {
+      "id": "tween-space-words",
+      "type": "match",
+      "title": "Space Vocabulary",
+      "emoji": "🌠",
+      "subject": "reading",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 5,
+      "instructions": "Match each word to its meaning.",
+      "items": [
+        {
+          "prompt": "Match the word to its meaning.",
+          "pairs": [
+            [
+              "Orbit",
+              "The path one object takes around another"
+            ],
+            [
+              "Constellation",
+              "A pattern of stars named by people"
+            ],
+            [
+              "Eclipse",
+              "One object blocks light from another"
+            ],
+            [
+              "Meteor",
+              "A streak of light from a space rock burning up"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tween-negatives",
+      "type": "multipleChoice",
+      "title": "Below Zero",
+      "emoji": "🌡️",
+      "subject": "math",
+      "minAge": 11,
+      "maxAge": 13,
+      "minutes": 5,
+      "instructions": "Work with negative numbers.",
+      "items": [
+        {
+          "prompt": "At night it is −6 °C. By day it is 9 °C. How many degrees warmer is the day?",
+          "choices": [
+            "3",
+            "15",
+            "−15",
+            "6"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "−4 + 10 = ?",
+          "choices": [
+            "−14",
+            "6",
+            "−6",
+            "14"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "(−3) × (−5) = ?",
+          "choices": [
+            "−15",
+            "15",
+            "−8",
+            "8"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Which temperature is coldest?",
+          "choices": [
+            "−3 °C",
+            "0 °C",
+            "−12 °C",
+            "5 °C"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "7 − 12 = ?",
+          "choices": [
+            "5",
+            "−5",
+            "19",
+            "−19"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "tween-idioms",
+      "type": "match",
+      "title": "Moon and Star Idioms",
+      "emoji": "💬",
+      "subject": "reading",
+      "minAge": 11,
+      "maxAge": 14,
+      "minutes": 5,
+      "instructions": "Match each saying to what it means.",
+      "items": [
+        {
+          "prompt": "Match the idiom to its meaning.",
+          "pairs": [
+            [
+              "Night owl",
+              "Someone who stays up late"
+            ],
+            [
+              "Once in a blue moon",
+              "Very rarely"
+            ],
+            [
+              "Over the moon",
+              "Extremely happy"
+            ],
+            [
+              "Burn the midnight oil",
+              "Work late into the night"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the idiom to its meaning.",
+          "pairs": [
+            [
+              "Reach for the stars",
+              "Aim very high"
+            ],
+            [
+              "Sleep on it",
+              "Wait a night before deciding"
+            ],
+            [
+              "Out like a light",
+              "Fall asleep very quickly"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "tween-time-zones",
+      "type": "multipleChoice",
+      "title": "Night and Day Around the World",
+      "emoji": "🌐",
+      "subject": "world",
+      "minAge": 11,
+      "maxAge": 14,
+      "minutes": 5,
+      "instructions": "Think about time and places on Earth.",
+      "items": [
+        {
+          "prompt": "When it is 12:00 noon in London (GMT), what time is it in New Delhi (5½ hours ahead)?",
+          "choices": [
+            "5:30 pm",
+            "6:30 am",
+            "5:30 am",
+            "11:30 pm"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "In summer, places near the North Pole can have…",
+          "choices": [
+            "The midnight sun",
+            "Two sunsets a day",
+            "No daylight at all"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "The northern lights are also called…",
+          "choices": [
+            "Aurora borealis",
+            "Milky Way",
+            "Solar flare",
+            "Eclipse"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "Which line marks where the calendar date changes?",
+          "choices": [
+            "Equator",
+            "Prime Meridian",
+            "International Date Line",
+            "Tropic of Capricorn"
+          ],
+          "answer": 2
+        },
+        {
+          "prompt": "How many official time zones does China use?",
+          "choices": [
+            "1",
+            "3",
+            "5",
+            "7"
+          ],
+          "answer": 0,
+          "explanation": "The whole country uses Beijing time."
+        }
+      ]
+    },
+    {
+      "id": "teen-gravity",
+      "type": "multipleChoice",
+      "title": "Gravity and Motion",
+      "emoji": "🍎",
+      "subject": "science",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 6,
+      "instructions": "Physics of the Earth and Moon.",
+      "items": [
+        {
+          "prompt": "Near Earth's surface, gravity accelerates objects at about…",
+          "choices": [
+            "1.6 m/s²",
+            "9.8 m/s²",
+            "98 m/s²",
+            "0.98 m/s²"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Newton's first law is also called the law of…",
+          "choices": [
+            "Inertia",
+            "Gravity",
+            "Action and reaction",
+            "Energy"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "The Moon's surface gravity is roughly what fraction of Earth's?",
+          "choices": [
+            "1/2",
+            "1/6",
+            "1/20",
+            "The same"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Ocean tides are mainly caused by…",
+          "choices": [
+            "Wind",
+            "The Moon's gravity",
+            "Earth's magnetic field",
+            "Earthquakes"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "An astronaut travels to the Moon. Their mass…",
+          "choices": [
+            "Gets smaller",
+            "Stays the same",
+            "Gets bigger",
+            "Becomes zero"
+          ],
+          "answer": 1,
+          "explanation": "Weight changes with gravity; mass does not."
+        }
+      ]
+    },
+    {
+      "id": "teen-functions",
+      "type": "typeAnswer",
+      "title": "Algebra Night Shift",
+      "emoji": "📈",
+      "subject": "math",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 8,
+      "instructions": "Type each answer as a number.",
+      "items": [
+        {
+          "prompt": "x² − 9 = 0 and x > 0. What is x?",
+          "answers": [
+            "3",
+            "x=3",
+            "x = 3"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "x² − 5x + 6 = 0. What is the smaller solution?",
+          "answers": [
+            "2",
+            "x=2",
+            "x = 2"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Evaluate 2x² + 3 when x = 4.",
+          "answers": [
+            "35"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "What is the slope of the line through (1, 2) and (3, 8)?",
+          "answers": [
+            "3"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "f(x) = 3x − 4. What is f(5)?",
+          "answers": [
+            "11"
+          ],
+          "keyboard": "numeric"
+        }
+      ]
+    },
+    {
+      "id": "teen-light-years",
+      "type": "multipleChoice",
+      "title": "Light-Years Away",
+      "emoji": "🌌",
+      "subject": "science",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 6,
+      "instructions": "Astronomy and big numbers.",
+      "items": [
+        {
+          "prompt": "The speed of light is about…",
+          "choices": [
+            "300 km/s",
+            "300,000 km/s",
+            "30 km/h",
+            "3,000,000 km/h"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "The nearest star to us after the Sun, Proxima Centauri, is about how far away?",
+          "choices": [
+            "4.2 light-years",
+            "42 light-minutes",
+            "420 light-years",
+            "1 light-year"
+          ],
+          "answer": 0
+        },
+        {
+          "prompt": "A star is 100 light-years away. The light we see tonight left it…",
+          "choices": [
+            "Last night",
+            "100 years ago",
+            "100 days ago",
+            "It depends on the weather"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "300,000 written in scientific notation is…",
+          "choices": [
+            "3 × 10⁴",
+            "3 × 10⁵",
+            "30 × 10⁵",
+            "3 × 10⁶"
+          ],
+          "answer": 1
+        },
+        {
+          "prompt": "Our Sun is best described as…",
+          "choices": [
+            "A planet",
+            "A medium-sized star",
+            "The biggest star in the galaxy",
+            "A white dwarf"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "teen-sleep-science",
+      "type": "trueFalse",
+      "title": "Teen Sleep Science",
+      "emoji": "🧠",
+      "subject": "life",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 5,
+      "instructions": "True or false? Science you can use tonight.",
+      "items": [
+        {
+          "statement": "Teenagers generally need about 8 to 10 hours of sleep a night.",
+          "answer": true
+        },
+        {
+          "statement": "Caffeine can stay active in your body for several hours.",
+          "answer": true,
+          "explanation": "An afternoon energy drink can still affect sleep at night."
+        },
+        {
+          "statement": "Bright screens at night can delay the release of melatonin.",
+          "answer": true,
+          "explanation": "Melatonin is the hormone that helps signal it is time to sleep."
+        },
+        {
+          "statement": "Pulling an all-nighter usually improves test scores.",
+          "answer": false,
+          "explanation": "Sleep is when the brain locks in memories; skipping it hurts recall."
+        },
+        {
+          "statement": "Keeping a regular wake-up time, even on weekends, can improve sleep.",
+          "answer": true
+        }
+      ]
+    },
+    {
+      "id": "teen-vocab",
+      "type": "match",
+      "title": "Luminous Vocabulary",
+      "emoji": "✍️",
+      "subject": "reading",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 5,
+      "instructions": "Match each word to its meaning or opposite.",
+      "items": [
+        {
+          "prompt": "Match the word to its meaning.",
+          "pairs": [
+            [
+              "Luminous",
+              "Giving off light"
+            ],
+            [
+              "Nocturnal",
+              "Active at night"
+            ],
+            [
+              "Celestial",
+              "Relating to the sky or outer space"
+            ],
+            [
+              "Ephemeral",
+              "Lasting a very short time"
+            ]
+          ]
+        },
+        {
+          "prompt": "Match the word to its opposite.",
+          "pairs": [
+            [
+              "Illuminate",
+              "Darken"
+            ],
+            [
+              "Obscure",
+              "Clear"
+            ],
+            [
+              "Vast",
+              "Tiny"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teen-space-history",
+      "type": "order",
+      "title": "Space Race Timeline",
+      "emoji": "🛰️",
+      "subject": "world",
+      "minAge": 13,
+      "maxAge": 16,
+      "minutes": 5,
+      "instructions": "Earliest to latest.",
+      "items": [
+        {
+          "prompt": "Order these space milestones:",
+          "sequence": [
+            "Sputnik 1 is launched",
+            "Yuri Gagarin orbits Earth",
+            "Apollo 11 lands on the Moon",
+            "Hubble Space Telescope is launched",
+            "First crew lives on the International Space Station"
+          ]
+        },
+        {
+          "prompt": "Order these discoveries:",
+          "sequence": [
+            "Galileo observes Jupiter's moons",
+            "Newton publishes his laws of motion",
+            "Einstein's theory of relativity",
+            "First image of a black hole"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "teen-budget",
+      "type": "typeAnswer",
+      "title": "First Paycheck",
+      "emoji": "💵",
+      "subject": "life",
+      "minAge": 14,
+      "maxAge": 16,
+      "minutes": 6,
+      "instructions": "Money math for real life. Type numbers only.",
+      "items": [
+        {
+          "prompt": "You earn $12 an hour and work 15 hours. How many dollars do you earn?",
+          "answers": [
+            "180",
+            "$180"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "You save 20% of $180. How many dollars do you save?",
+          "answers": [
+            "36",
+            "$36"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "A phone plan costs $25 a month. How many dollars for a year?",
+          "answers": [
+            "300",
+            "$300"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Simple interest: 5% a year on $400. How many dollars of interest after 1 year?",
+          "answers": [
+            "20",
+            "$20"
+          ],
+          "keyboard": "numeric"
+        },
+        {
+          "prompt": "Headphones cost $80 plus 10% sales tax. What is the total in dollars?",
+          "answers": [
+            "88",
+            "$88"
+          ],
+          "keyboard": "numeric"
+        }
+      ]
+    }
+  ]
+}
